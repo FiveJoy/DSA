@@ -17,4 +17,7 @@ public class ListNode {
     public ListNode() {
     }
 
+    public ListNode(int value) {
+        this.value = value;
+    }
 }
